@@ -1,4 +1,4 @@
-# Smart Contract Audit Web Archive Public API Documentation
+# Smart Contract Audit Database Public API Documentation
 
 Being a pioneer in providing independent smart contract security audits and one of the leading DeFi projects promoting the highest security standards for the industry, DeFiYield made the next step towards making the DeFi space safer for everyone - released the unique audit database and the Safe API.  
 
